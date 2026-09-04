@@ -4,7 +4,7 @@
 動画の **切り出し / 範囲削除 / 結合** を GUI から素早く行えます。  
 動画処理は同梱の **FFmpeg**（ffmpeg-static / ffprobe-static）で行い、ローカル完結・外部送信なしで動作します。
 
-![](img\img001.png)
+![](https://raw.githubusercontent.com/is0383kk/simple-movie-editor/refs/heads/main/img/img001.png)
 
 ## 技術構成
 
